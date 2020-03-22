@@ -20,7 +20,7 @@ Must have repository cloned
 $ sudo apt-get install git
 ```
 ```
-$ git clone git@github.com:darkares23/JavaScript-Shopping-Cart.git
+$ git clone git@github.com:darkares23/js-mailSender-emulator.git
 ```
 
 ## testing ⚙️
